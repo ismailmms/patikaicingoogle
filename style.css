@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+a{
+    text-decoration: none;
+}
+div #fotoesat {
+    width: 351;
+    height: 113;
+}
+
+table {
+    border: 0;
+    width: 100%;
+
+}
+
+#sessizlik {
+    background-color: #EEEEEE;
+    
+}
+
+#zz {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+#xx {
+    background-color: #70CCC2;
+    text-align: center;
+}
+#tt {
+   text-align: center;
+   background-color: #62B3AA;
+}
+p {
+    font-size: -1;
+    text-align: center;
+    position: relative;
+    top: 210px;
+
+}
